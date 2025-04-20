@@ -12,13 +12,7 @@
 > *“If it’s repeatable, it’s automatable.”*  
 I believe in clean infrastructure as code, security-first architecture, and bringing observability into the heart of every service.
 
-## 🏗️ Projects
-
-- **[CSE StudyPlace](https://github.com/unnisha14/CSE_StudyPlace.git):** A Flutter app to help students prepare for placements and exams.
-
-## 🏆 Achievements
-
-- **Top Performer (Q4 2024)** – Delhivery  
+- **Top Performer (Q3 2024)** – Delhivery  
 - **1st Place** – Optum Stratheton 2020 for a healthcare app
 
 ## 📫 Reach Me
